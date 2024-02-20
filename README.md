@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="./coder-image.png"></img>
 
-- 🔭 I’m currently working on : [Dictionary App](https://dictionary-projectt.netlify.app/)
+- 🔭 I’m currently working on : 
 
-- 🌱 I’m currently learning : **Data analysis,react libraries**
+- 🌱 I’m currently learning : **Java,react libraries**
 
 - 👨‍💻 All of my projects are available at : [https://portfolio-anaguerreiro.netlify.app/](https://portfolio-anaguerreiro.netlify.app/)
 
