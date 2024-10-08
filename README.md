@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on : Studying Software Development in Cesae Digital 🎊
 
-- 🌱 I’m currently learning : **Java, Laravel, Angular**
+- 🌱 I’m currently learning : **Angular, Ionic**
 
 - 👨‍💻 All of my projects are available at : [https://portfolio-anaguerreiro.netlify.app/](https://portfolio-anaguerreiro.netlify.app/)
 
