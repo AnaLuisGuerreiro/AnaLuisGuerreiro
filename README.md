@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="./coder-image.png"></img>
 
-- 🔭 I’m currently working on : Studying Software Development in Cesae Digital 🎊
+- 🔭 I’m currently working on : Sonae Software Developer Intern 🎊
 
 - 🌱 I’m currently learning : **Angular, Ionic**
 
